@@ -2,10 +2,15 @@
   "name": "@knowler/cra-template-minimal",
   "version": "0.1.0",
   "license": "MIT",
+  "main": "template.json",
   "scripts": {
     "release": "np"
   },
   "devDependencies": {
     "np": "^5.2.1"
-  }
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
