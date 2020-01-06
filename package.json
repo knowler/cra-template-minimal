@@ -1,0 +1,11 @@
+{
+  "name": "@knowler/cra-template-minimal",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "release": "np"
+  },
+  "devDependencies": {
+    "np": "^5.2.1"
+  }
+}
